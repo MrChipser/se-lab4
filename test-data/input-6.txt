@@ -1,0 +1,5 @@
+# SINGLE folytatja a kilovest ha az egyik tar failure-t ad
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE

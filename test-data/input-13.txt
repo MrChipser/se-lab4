@@ -1,0 +1,4 @@
+# ALL sikeres ha csak az egyiket tudta kiloni es ki is lovi
+GT4500,1,1,1,0
+TORPEDO,ALL
+TORPEDO,ALL

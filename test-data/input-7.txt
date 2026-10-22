@@ -1,0 +1,4 @@
+# ALL sikeres ha mindkettot ki lehet loni es ki is lovi
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
